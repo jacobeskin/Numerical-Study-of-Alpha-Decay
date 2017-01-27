@@ -1,2 +1,2 @@
 # B-thesis
-Matlab codes for my bachelors thesis
+My bachelors thesis and the Matlab codes for it.
